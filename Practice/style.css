@@ -1,6 +1,11 @@
 body{
-    background-color: blue;
+    background-color: rgb(205, 205, 228);
 }
-p{
-    background-color: pink;
+main{
+    display: flex;
+    margin: 12rem 12rem 12rem 12rem;
+    width: 40rem;
+    height: 30rem;
+    padding: 5rem;
+    background-color: rgb(159, 159, 235);
 }
