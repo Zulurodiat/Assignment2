@@ -1,11 +1,49 @@
 body{
-    background-color: rgb(205, 205, 228);
+    background-color: rgb(225, 225, 240);
+    width: 100vw;
+    height: 100vh;
 }
 main{
     display: flex;
     margin: 12rem 12rem 12rem 12rem;
-    width: 40rem;
-    height: 30rem;
-    padding: 5rem;
-    background-color: rgb(159, 159, 235);
+    width: 70rem;
+    height: 31.25rem;
+    background-color: white;
+}
+.section-two{
+    width: 50rem;
+    height: 28.75rem;
+    padding: 20px;
+    border-radius: 0 5px 5px 0;
+    background-color:rgb(228, 190, 196);
+}
+
+.cart{
+    width: 20px;
+    height: 20px;
+    align-items: center;
+}
+button{
+    background-color: transparent;
+    cursor: pointer;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(219, 126, 180);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: rgb(219, 159, 179);
+}
+h3{
+    color: rgb(219, 132, 132);
+}
+.section-one{
+border-radius: 0 5px 5px 0;
+}
+.price{
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
